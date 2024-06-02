@@ -6,10 +6,9 @@ Este vídeo de 1 minuto apresenta uma visão rápida e envolvente do meu progres
 ## 🤖 Tecnologias Utilizadas
 - **IA Generativa ChatGPT** para roteirização e revisão;
 - **IA Generativa D-ID** para sintetização de voz e geração de avatar virtual;
-- **Software Adobe Premiere** para edição de vídeo.
 
 ## 🧐 Processo de Criação
-Usei o **ChatGPT** para escrever e revisar o roteiro do vídeo. O **D-ID** foi essencial para criar um avatar virtual e voz sintetizada, trazendo uma dimensão moderna ao vídeo. A montagem e edição foram realizadas no **Adobe Premiere** para garantir qualidade profissional.
+Usei o **ChatGPT** para escrever e revisar o roteiro do vídeo. O **D-ID** foi essencial para criar um avatar virtual e voz sintetizada, trazendo uma dimensão moderna ao vídeo. 
 
 ## 🚀 Resultados
 O vídeo é uma representação concisa do meu aprendizado e habilidades desenvolvidas no bootcamp, destacando a aplicação prática dos serviços da AWS e a interação com a comunidade tecnológica.
