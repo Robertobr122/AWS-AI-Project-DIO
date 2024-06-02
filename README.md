@@ -13,7 +13,7 @@ Usei o **ChatGPT** para escrever e revisar o roteiro do vídeo. O **D-ID** foi e
 ## 🚀 Resultados
 O vídeo é uma representação concisa do meu aprendizado e habilidades desenvolvidas no bootcamp, destacando a aplicação prática dos serviços da AWS e a interação com a comunidade tecnológica.
 
-[LINK PARA O VÍDEO AQUI]
+[LINK PARA O VÍDEO AQUI](https://www.linkedin.com/feed/update/urn:li:activity:7203138680989847552/)
 
 ## 💭 Reflexão
 Este projeto foi uma experiência incrível, combinando storytelling visual com tecnologias avançadas de IA para criar uma narrativa poderosa e cativante sobre meu desenvolvimento no campo da Inteligência Artificial Generativa.
